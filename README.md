@@ -12,7 +12,7 @@ So I'll use Japanese from here!
 さて、こんなところに来てしまったほとんどの方々は、私が誰なのかを知らないでしょう。
 
 私は普段、人工言語の創作をしています。その人工言語の名前は「ツォルフェー語」(Fol xolfe)です。
-ツォルフェー語の辞書は[こちら](https://zpdic.ziphil.com/dictionary/Fol_xolfe)から閲覧できます。
+ツォルフェー語の辞書は[こちら](https://zpdic.ziphil.com/dictionary/Fol_xolfe)から、ホームページもどきは[こちら](https://hakuxna.github.io)から閲覧できます。
 
 以上です。ありがとうございました！
 
